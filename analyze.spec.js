@@ -1,32 +1,3 @@
-Skip to content
-Why GitHub? 
-Team
-Enterprise
-Explore 
-Marketplace
-Pricing 
-Search
-Sign in
-Sign up
-KoodooHQ
-/
-koodoo-qa-basic-assessment
-11
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-koodoo-qa-basic-assessment/analyze.spec.js /
-@DanielRussellkt
-DanielRussellkt feature: initialised repo with assessment files
-Latest commit 9d8b2ec on Feb 8
- History
- 1 contributor
-39 lines (37 sloc)  981 Bytes
   
 const {
     standardDeviation,
